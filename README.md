@@ -22,16 +22,19 @@ conda activate my_env
 ```sh
 jupyter notebook
 ```
-- **Note**: You can use VS Code Jupyter Notebook or Colaborate instead of Anaconda's Jupyter notebook
+- **Note**: You can use *[VS Code](https://code.visualstudio.com/) Jupyter Notebook* or *[Colaboratory](https://colab.research.google.com/)* instead of Anaconda's Jupyter notebook
 
 ### **Install [Mediapipe](https://google.github.io/mediapipe/)**
 ```sh
 pip install mediaPipe opencv-python
 ```
-### **Another**
+### **Install [OpenCV](https://opencv.org/)**
+```sh
+pip install opencv-python
+```
+### **Install [Numpy](https://numpy.org/)**
 ```sh
 pip install numpy
-pip install opencv-python
 ```
 
 
