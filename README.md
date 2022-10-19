@@ -1,4 +1,4 @@
-# [Mediapipe] Hand Pose Estimation
+# [[Mediapipe](https://google.github.io/mediapipe/)] Hand Pose Estimation
 
 <p align="center">
   <a href="https://github.com/ITainment-UIT-04"><img width="30%" height="auto" src="https://github.com/Antares3102/Antares3102/blob/main/ITainment.png" height="175px"/></a>
